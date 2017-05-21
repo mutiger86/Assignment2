@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">COP 4656 - Assignment 2</string>
+    <string name="button_text_gator">Show Me A Gator!</string>
+    <string name="button_text_nole">Show Me A Nole!</string>
+</resources>
